@@ -59,7 +59,7 @@ Behavior: When the query is true, the page says "Welcome to the index page".
 Command:
 
 ```Bash
-python3 sqli_credentials.py -u smokey -t [http://10.10.10.55/login](http://10.10.10.55/login) -m "Welcome to the index page"
+python3 sqli_credentials.py -u smokey -t http://10.10.10.55/login -m "Welcome to the index page"
 ```
 Output:
 
