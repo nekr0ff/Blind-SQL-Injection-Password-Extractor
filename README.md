@@ -29,7 +29,7 @@ This tool automates the "Guess Who" game against a database by iterating through
     pip install requests
     ```
 
-##Usage
+## Usage
 
 Run the script using Python 3. You need to identify the **success message** (the text that appears on the page *only* when the login/injection is successful) beforehand.
 
